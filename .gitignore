@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+*.vcxproj
+*.recipe
+*.tlog
+*.config
+*.ipch
+packages/*
+*/Debug/*
+Debug/*
